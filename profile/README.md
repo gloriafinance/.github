@@ -1,10 +1,3 @@
-<!-- README.md — Organización GitHub: gloriafinance -->
-
-<p align="center">
-  <img src="https://gloriafinance.com.br/assets/logoHorizontal-C8Lnr0Bn.png" alt="Glória Finance" width="420" />
-</p>
-
-<h1 align="center">Glória Finance</h1>
 
 <p align="center">
   Plataforma de gestión financiera y administrativa para iglesias — enfocada en <strong>orden</strong>, <strong>transparencia</strong> y <strong>buena administración</strong>.
